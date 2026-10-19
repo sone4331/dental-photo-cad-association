@@ -1,0 +1,33 @@
+# Runtime outputs and local dependencies
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Private experimental resources
+dataset/
+datasets/
+**/dataset/
+**/datasets/
+**/cache/
+**/score_cache/
+**/inventories/
+**/data_groups/
+**/geometry_cache/
+**/official_source/
+*.stl
+*.STL
+*.bmp
+*.BMP
+*.png
+*.jpg
+*.jpeg
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.csv
+*.json.gz

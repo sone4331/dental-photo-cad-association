@@ -1,0 +1,54 @@
+[
+  {
+    "path": "source/modules/evaluation/complete_evidence.py",
+    "sha256": "4b9bb2d846a995cd4c79a3d7d12ed5a7b12c477e8a2708732e64c0f068cfd9ba"
+  },
+  {
+    "path": "source/modules/evaluation/benchmark_unmapped.py",
+    "sha256": "979d164fa1890dd0566f67fad247af193a9e8d3b1f06ad84ecfb55f8d8ee136b"
+  },
+  {
+    "path": "source/modules/pipeline/verify_results.py",
+    "sha256": "618152a8f7d1463108b74b58627e7b699e4ace094336fa01058d4ba9c1ab537d"
+  },
+  {
+    "path": "source/modules/pipeline/run_completion.py",
+    "sha256": "8b77e6fe01c30aba1bc372e498e34a1f51ef96eb097d924361322f8a6a4bcb2e"
+  },
+  {
+    "path": "source/modules/pipeline/offline_render_cost.py",
+    "sha256": "4a10b941d41138ed351ceaf91a538fb1a2bb653483e3ee9e0e7ded287a4a10f9"
+  },
+  {
+    "path": "source/modules/pipeline/benchmark_pipeline.py",
+    "sha256": "323fe0316d02fab4af3e97189b027c7969649ab8c49c99e0209a89980dc7c40c"
+  },
+  {
+    "path": "source/modules/pipeline/assignment.py",
+    "sha256": "02202ce65d273a07c002e7d1f450340c1ce0f2a3ed94d3619ba6526df14991ec"
+  },
+  {
+    "path": "source/modules/pipeline/analyze.py",
+    "sha256": "f94a2950d43421d9a5d0688451eedee8b43a6bf5b8410a9a7046033f5b796dcc"
+  },
+  {
+    "path": "source/modules/adaptation/controlled_train.py",
+    "sha256": "c2f4f9a3e528f5af9749f805b465eb7802e0d578bda1cf346d05a9adcbc2f05f"
+  },
+  {
+    "path": "source/modules/assignment/assignment.py",
+    "sha256": "02202ce65d273a07c002e7d1f450340c1ce0f2a3ed94d3619ba6526df14991ec"
+  },
+  {
+    "path": "source/modules/appearance/run_baseline.py",
+    "sha256": "371c51d4d6c56e1f32c8c0ac8f10a7506a7733d7051b423e90dd6dd6ecbb4c91"
+  },
+  {
+    "path": "source/modules/silhouette/geometry_baseline.py",
+    "sha256": "87adf5299e2ef0255000c6d83c3082f0338a25222f6952aa00e65dc51c166ca7"
+  },
+  {
+    "path": "source/modules/render_gallery.py",
+    "sha256": "593f1720da171e0cdbd30f4321202c16adc8e029cd2ecf503db13207cc14b9fa"
+  }
+]
